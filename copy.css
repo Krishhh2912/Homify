@@ -1,0 +1,19 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.container{
+    min-width: none;
+    width: auto;
+    display: flex;
+    /* align-items: center; */
+    justify-content: center;
+}
+
+.img{
+    width: auto;
+    height: auto;
+    display: block;
+}
